@@ -1,1 +1,0 @@
-# js-assignment-2-atikul
